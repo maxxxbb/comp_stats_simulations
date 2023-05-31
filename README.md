@@ -11,7 +11,7 @@ The aim of this problem set was to implement Principle Component Analysis in R a
 
 ---
 
-**ProblemSet_PCA.ipynb**:   
+**ProblemSet_Bootstrap.ipynb**:   
 
 The aim of this exercise was to compare coverage probabilities of analytical confidence intervals and bootstrapped confidence intervals.
 The two types of confidence intervals were evaluated along two dimensions, interval length and coverage probability, in a small simulation study.
